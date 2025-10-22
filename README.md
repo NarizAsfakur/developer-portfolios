@@ -138,6 +138,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Ashkan Misaghi](https://ashkanmisaghi.ir)
 - [Ashwin Hariharan](https://ashwinhariharan.tech)
 - [Ashwith Rai](https://ashwithrai.me) [Full Stack developer]
+- [Asfakur Nariz](https://asfakur-portfolio-nextjs.vercel.app/) [Front-end Developer | UI UX Designer]
 - [Assad Isah](https://www.nottherealalanturing.site)
 - [Aster Bandis](https://bandisast.eu)
 - [Aster Li](https://asterjuneli.com)
